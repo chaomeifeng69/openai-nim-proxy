@@ -23,7 +23,7 @@ const ENABLE_THINKING_MODE = true; // Set to true to enable chat_template_kwargs
 // Model mapping (adjust based on available NIM models)
 const MODEL_MAPPING = {
   'deepseek-ai/deepseek-r1-0528': 'moonshotai/kimi-k2-instruct-0905',
-  `qwen/qwen3-235b-a22b`: `deepseek-ai/deepseek-v3.1`
+  'qwen/qwen3-235b-a22b': 'deepseek-ai/deepseek-v3.1'
 };
 
 // Health check endpoint
